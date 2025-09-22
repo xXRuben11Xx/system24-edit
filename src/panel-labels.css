@@ -48,13 +48,13 @@ body {
             content: 'nav';
         }
         .panels_c48ade::after {
-            content: 'user';
+            content: 'usuario';
         }
         .sidebarList_c48ade::after {
-            content: 'channels';
+            content: 'canales';
         }
         .subtitleContainer_f75fb0::after {
-            content: 'channel';
+            content: 'canal';
         }
         .messagesWrapper__36d07::after {
             content: 'chat';
