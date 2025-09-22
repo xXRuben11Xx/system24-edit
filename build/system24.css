@@ -317,38 +317,38 @@ body {
         }
 
         .guilds_c48ade::after {
-            content: 'nav';
+            content: 'navegacion';
         }
         .panels_c48ade::after {
-            content: 'user';
+            content: 'usuario';
         }
         .sidebarList_c48ade::after {
-            content: 'channels';
+            content: 'canales';
         }
         .subtitleContainer_f75fb0::after {
-            content: 'channel';
+            content: 'canal';
         }
         .messagesWrapper__36d07::after {
             content: 'chat';
         }
         .channelTextArea_f75fb0::after {
-            content: 'input';
+            content: 'entrada';
         }
         .container_c8ffbb::after,
         .content_f75fb0 > .membersWrap_c8ffbb::after {
-            content: 'members';
+            content: 'miembros';
         }
         .container__133bf > .container__9293f:after {
-            content: 'friends';
+            content: 'amigos';
         }
         .peopleColumn__133bf::after {
-            content: 'list';
+            content: 'lista';
         }
         .nowPlayingColumn__133bf::after {
-            content: 'activity';
+            content: 'actividad';
         }
         .container__01ae2 > .container__9293f::after {
-            content: 'thread';
+            content: 'hilo';
         }
         .callContainer_cb9592::after {
             content: 'vc';
