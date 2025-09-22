@@ -317,7 +317,7 @@ body {
         }
 
         .guilds_c48ade::after {
-            content: 'navegacion';
+            content: '';
         }
         .panels_c48ade::after {
             content: 'usuario';
